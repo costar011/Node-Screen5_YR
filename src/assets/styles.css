@@ -17,3 +17,20 @@
 
   background-color: aqua;
 }
+
+.lay .lay__main {
+  width: 100%;
+  height: 80%;
+
+  background-color: bisque;
+}
+
+.lay .lay__col {
+  width: 100%;
+  height: 20%;
+
+  display: flex;
+  flex-direction: row;
+
+  background-color: blue;
+}
